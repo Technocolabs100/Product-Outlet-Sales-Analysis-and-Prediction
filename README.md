@@ -1,2 +1,3 @@
 # Product-Outlet-Sales-Analysis-and-Prediction
-The aim of this data science project is to build a predictive model and find out the sales of each product at a particular store.
+
+The aim of this project is to Analyse the sales of each product at a particular store.
